@@ -410,6 +410,10 @@ footer .footer-below {
     font-size: 3em;
 }
 
+.modal-body img.img-response {
+    max-width: 100%;
+
+}
 .portfolio-modal .modal-content img {
     margin-bottom: 30px;
 }
